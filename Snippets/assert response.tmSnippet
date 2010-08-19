@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assert_response ${0::success}</string>
+	<key>name</key>
+	<string>assert response</string>
+	<key>tabTrigger</key>
+	<string>asre</string>
+	<key>uuid</key>
+	<string>5871E243-7B50-4DC8-8962-FF6D986C35E2</string>
+</dict>
+</plist>

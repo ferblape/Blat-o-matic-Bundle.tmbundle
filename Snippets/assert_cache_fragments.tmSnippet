@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assert_cache_fragments({:action =&gt; '$1', :controller =&gt; '$2'}) do
+  $3
+end</string>
+	<key>name</key>
+	<string>assert_cache_fragments</string>
+	<key>tabTrigger</key>
+	<string>acf</string>
+	<key>uuid</key>
+	<string>EF66E3F1-91E4-4578-9508-8D15D7EAAB1E</string>
+</dict>
+</plist>

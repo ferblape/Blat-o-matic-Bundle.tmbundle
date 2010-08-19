@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Blat-o-matic Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>2A85DC5C-04DD-42B3-82F3-9C175B726772</string>
+		<string>73E6C213-AD4B-4435-9615-08D970376341</string>
+		<string>D098685B-4312-47D8-B919-96D6B0E3CB21</string>
+		<string>5871E243-7B50-4DC8-8962-FF6D986C35E2</string>
+		<string>7D38B73F-CDB5-4151-8F97-C61D25FC7F0E</string>
+		<string>AB0B19E2-CAAF-4F34-8366-53C48A430694</string>
+		<string>89D825BC-51C1-49EB-827C-389CE9F96A69</string>
+		<string>C474285A-8D70-493F-9A1E-779B1D6AF6EE</string>
+		<string>EF66E3F1-91E4-4578-9508-8D15D7EAAB1E</string>
+		<string>528BFFF2-0A84-4749-AAC5-40FD7EA158D7</string>
+		<string>A69AEABF-5123-4740-B241-D5ECE368DAED</string>
+		<string>3DEFBDEB-F8AD-403C-ADA2-54B255EA814E</string>
+		<string>9C989DC6-B199-404F-8433-A99CBAF3E4FE</string>
+		<string>069E2886-2615-499B-B18A-FAA93AEA03B5</string>
+		<string>F70751D2-9238-426D-B3FA-3FF66A068A9F</string>
+		<string>B18FA68D-0A19-4C19-A010-3AC85E512500</string>
+		<string>4E4A6711-A37D-4F01-A5F3-0160E4048B02</string>
+		<string>A91B1F16-C158-474E-B204-2B0FAE8883B8</string>
+		<string>003A3ED2-38D2-45D3-BCF7-E51D41025EB0</string>
+		<string>4C16D715-0FD4-40B4-A6AC-B14AF5400A1E</string>
+	</array>
+	<key>uuid</key>
+	<string>F7F50A23-B9FD-4066-AD9A-9AFA2A85F6D5</string>
+</dict>
+</plist>

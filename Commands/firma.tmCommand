@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/opt/local/bin/ruby
+
+puts Time.now.strftime("# blat %Y-%m-%d\n# $1")</string>
+	<key>input</key>
+	<string>none</string>
+	<key>name</key>
+	<string>firma</string>
+	<key>output</key>
+	<string>insertAsSnippet</string>
+	<key>tabTrigger</key>
+	<string>firma</string>
+	<key>uuid</key>
+	<string>003A3ED2-38D2-45D3-BCF7-E51D41025EB0</string>
+</dict>
+</plist>

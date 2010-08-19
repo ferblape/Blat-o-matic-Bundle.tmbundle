@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assert_no_difference ${1::class}, ${2::count} do
+  $3
+end</string>
+	<key>name</key>
+	<string>assert_no_difference</string>
+	<key>tabTrigger</key>
+	<string>asnd</string>
+	<key>uuid</key>
+	<string>AB0B19E2-CAAF-4F34-8366-53C48A430694</string>
+</dict>
+</plist>
